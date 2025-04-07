@@ -1,1 +1,3 @@
-No puedo ver el archivo porque fue creado y commiteado en otra rama
+No puedo ver el archivo tp2_1_2.c porque fue creado y commiteado en otra rama.
+Al hacer el commit de respuestas, se puede ver que da una continuación a la rama main, mientras que la rama Opcion_2 se mantiene separada.
+Al hacer el merge de ambas ramas noto que estas se juntan quedando solo la rama main.
